@@ -3,3 +3,5 @@ pandas
 fastai
 Pillow
 scikit-learn
+litellm
+openpyxl
